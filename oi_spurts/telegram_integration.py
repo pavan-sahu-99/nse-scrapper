@@ -1,7 +1,7 @@
 import requests
 
-BOT_TOKEN = "8276185483:AAF3vOFCd6rB_R8Jh8UX2Vhbbustp0WSTV4"
-CHAT_ID = "889852654"
+BOT_TOKEN = "Your Bot Token"
+CHAT_ID = "Your ID"
 
 def send_telegram_message(text):
     url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
@@ -11,3 +11,4 @@ def send_telegram_message(text):
 
 if __name__ == "__main__":
     send_telegram_message("Test- Bullish Stocks Alert")
+
