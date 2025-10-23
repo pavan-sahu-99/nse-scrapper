@@ -52,18 +52,3 @@ Tech Stack:
 5. Telegram Bot API
 6. Scheduler(for periodic tasks)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-Output Example:
------------------------------------------------------
-Every 6 minutes, a Telegram message is sent with:
---------------------------------------------------------
-OI Spurts Summary
-Summary:
-signal
-Neutral    208
-Bullish      3
-Bearish      3
-
-Bearish Stocks: BRITANNIA, BOSCHLTD, MARUTI
-
-Bullish Stocks: CUMMINSIND, ALKEM, SOLARINDS
----------------------------------------------------------------------------------------------------------------------------------------------------------------
